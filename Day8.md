@@ -1,6 +1,6 @@
 
 
-# DAY 8
+# DAY 9
 ## Lessons Covered:
 1. Lesson-21 (Why Python ?)
 2. Lesson-22 (Data Types and Operators(41%))
