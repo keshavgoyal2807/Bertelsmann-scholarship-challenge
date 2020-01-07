@@ -8,7 +8,7 @@
 3. Distinct Aggregate functions.
 # Topics Learned
 1. Having
-2. Date
+2. Date_trunc
 
 # Progress - 95%
 
